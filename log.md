@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: June 28, 2018
+### Day 1: June 28, 2018
 
 **Today's Progress:** Worked on Progate to brush up HTML/CSS/JavaScript
 
@@ -8,7 +8,7 @@
 
 **Link to work:** N/A
 
-### Day 1: June 29, 2018
+### Day 2: June 29, 2018
 
 **Today's Progress:** Worked on my Udacity Scholarship for Front End Web Development. Finished Functions at Runtime and Class and Objects.
 
