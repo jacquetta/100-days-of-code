@@ -24,7 +24,7 @@
 
 **Link to work:** N/A
 
-## Day 2: July 2, 2018
+### Day 2: July 2, 2018
 
 **Today's Progress:** Working on Udacity FEWD course Finished Objects, Functions and Built-Ins.
 
