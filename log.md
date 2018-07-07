@@ -39,3 +39,27 @@
 **Thoughts** I was working on default parameters functions quiz and I could not figure out what I was doing wrong. I went through my code multiple times. Took a break came back looked through my code tested it again and finally realized that I had a extra letter in my statement. Good grief. Time to move on.
 
 **Link to work:** N/A
+
+### Day 4: July 4, 2018
+
+**Today's Progress:** 
+
+**Thoughts: **
+
+**Links to work:** N/A
+
+### Day 4: July 5, 2018
+
+**Today's Progress:** 
+
+**Thoughts: **
+
+**Links to work:** N/A
+
+### Day 4: July 6, 2018
+
+**Today's Progress:** Worked on Learning Jasmine Testing on JavaScript.
+
+**Thoughts:** I feel that it is beneficial to learn more about testing in JavaScript.
+
+**Links to work:** N/A
