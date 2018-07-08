@@ -63,3 +63,11 @@
 **Thoughts:** I feel that it is beneficial to learn more about testing in JavaScript.
 
 **Links to work:** N/A
+
+### Day 5: July 7, 2018
+
+**Today's Progress:** Worked on Skillcrush LOLcat and magic 8 ball project.
+
+**Thoughts:** I cannot believe that it feels like I can actually understand some of JavaScript.
+
+**Links to work** N/A
